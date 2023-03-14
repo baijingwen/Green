@@ -10,5 +10,8 @@ public class Signup2 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_signup2);
+
+        //save  to home
+        //login to main
     }
 }
