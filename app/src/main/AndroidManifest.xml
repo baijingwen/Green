@@ -32,22 +32,10 @@
             android:name=".Signup"
             android:exported="false" />
         <activity
-            android:name=".MyplantsFragment"
-            android:exported="false" />
-        <activity
-            android:name=".MonmentsFragment"
-            android:exported="false" />
-        <activity
             android:name=".ProfileFragment"
             android:exported="false" />
         <activity
-            android:name=".MapFragment"
-            android:exported="false" />
-        <activity
             android:name=".ForumFragment"
-            android:exported="false" />
-        <activity
-            android:name=".HomeFragment"
             android:exported="false" />
         <activity
             android:name=".AssignmentActivity"
