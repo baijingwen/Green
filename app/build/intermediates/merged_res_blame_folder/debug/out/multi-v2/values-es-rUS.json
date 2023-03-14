@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.myapplication.app-mergeDebugResources-42:/values-es-rUS/values-es-rUS.xml",
+            "outputFile": "com.example.myapplication.app-mergeDebugResources-41:/values-es-rUS/values-es-rUS.xml",
             "map": [
                 {
                     "source": "/Users/billbai/.gradle/caches/transforms-3/cc3c84bcf11d1dfa6cd6bd6352941c40/transformed/navigation-ui-2.5.3/res/values-es-rUS/values-es-rUS.xml",
