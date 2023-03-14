@@ -27,9 +27,6 @@
         android:testOnly="true"
         android:theme="@style/Theme.MyApplication" >
         <activity
-            android:name="com.example.myapplication.PlantIntroduce"
-            android:exported="false" />
-        <activity
             android:name="com.example.myapplication.ProfileActivity"
             android:exported="false" />
         <activity
@@ -45,10 +42,22 @@
             android:name="com.example.myapplication.Signup"
             android:exported="false" />
         <activity
+            android:name="com.example.myapplication.MyplantsFragment"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication.MonmentsFragment"
+            android:exported="false" />
+        <activity
             android:name="com.example.myapplication.ProfileFragment"
             android:exported="false" />
         <activity
+            android:name="com.example.myapplication.MapFragment"
+            android:exported="false" />
+        <activity
             android:name="com.example.myapplication.ForumFragment"
+            android:exported="false" />
+        <activity
+            android:name="com.example.myapplication.HomeFragment"
             android:exported="false" />
         <activity
             android:name="com.example.myapplication.AssignmentActivity"

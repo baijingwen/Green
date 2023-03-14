@@ -23,7 +23,7 @@ public class AssignmentActivity extends AppCompatActivity {
         NavController navController = Navigation.findNavController(this, R.id.fragment);
 
         AppBarConfiguration appBarConfiguration = new AppBarConfiguration.Builder(
-                R.id.homeFragment,R.id.momentsFragment,R.id.mapFragment, R.id.myPlantsFragment
+                R.id.Home,R.id.Moments,R.id.Map, R.id.Myplants
         ).build();
 
         NavigationUI.setupActionBarWithNavController(this, navController, appBarConfiguration);

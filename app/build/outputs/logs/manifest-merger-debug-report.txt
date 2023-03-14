@@ -1,11 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:2:1-61:12
-INJECTED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:2:1-61:12
-INJECTED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:2:1-61:12
-INJECTED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:2:1-61:12
+ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:2:1-70:12
 MERGED from [androidx.navigation:navigation-ui:2.5.3] /Users/billbai/.gradle/caches/transforms-3/cc3c84bcf11d1dfa6cd6bd6352941c40/transformed/navigation-ui-2.5.3/AndroidManifest.xml:17:1-24:12
-MERGED from [com.github.denzcoskun:ImageSlideshow:0.1.0] /Users/billbai/.gradle/caches/transforms-3/b7f5397bbb3b31aaca6133d5653515bb/transformed/ImageSlideshow-0.1.0/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.material:material:1.8.0] /Users/billbai/.gradle/caches/transforms-3/ecf786b70a21a37ed512d79e4f35ade5/transformed/material-1.8.0/AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/billbai/.gradle/caches/transforms-3/7973dc37a0b9b77da65b027e645a80f7/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/billbai/.gradle/caches/transforms-3/a38cfd5831cd62d9808412815aa16601/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
@@ -64,27 +63,27 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/
 MERGED from [androidx.print:print:1.0.0] /Users/billbai/.gradle/caches/transforms-3/f1c1f6112ea6a1f399972dce89bf2eda/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/billbai/.gradle/caches/transforms-3/887740e9ca47b4f507c7b2ac441e7e60/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:exifinterface:27.1.0] /Users/billbai/.gradle/caches/transforms-3/5c2072d1d7dc0981b26807c5bb1326a4/transformed/exifinterface-27.1.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:2:1-61:12
-INJECTED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:2:1-61:12
-INJECTED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:2:1-70:12
 	package
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:4:5-40
-		INJECTED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:4:5-40
+		INJECTED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:2:1-61:12
-		INJECTED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:2:1-70:12
+		INJECTED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:2:1-61:12
-		INJECTED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:2:1-70:12
+		INJECTED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:6:5-59:19
+ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:6:5-68:19
 MERGED from [com.google.android.material:material:1.8.0] /Users/billbai/.gradle/caches/transforms-3/ecf786b70a21a37ed512d79e4f35ade5/transformed/material-1.8.0/AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.8.0] /Users/billbai/.gradle/caches/transforms-3/ecf786b70a21a37ed512d79e4f35ade5/transformed/material-1.8.0/AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/billbai/.gradle/caches/transforms-3/7973dc37a0b9b77da65b027e645a80f7/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
@@ -114,113 +113,129 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/bill
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.9.0] /Users/billbai/.gradle/caches/transforms-3/6572e896cf691f4b13ad10c561cb3105/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:13:9-35
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:11:9-41
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:11:9-41
 	android:fullBackupContent
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:9:9-54
 	android:roundIcon
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:12:9-54
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:12:9-54
 	tools:targetApi
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:15:9-29
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:15:9-29
 	android:icon
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:10:9-43
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:7:9-35
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:14:9-51
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:14:9-51
 	android:dataExtractionRules
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:8:9-65
-activity#com.example.myapplication.PlantIntroduce
-ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:16:9-18:40
-	android:exported
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:18:13-37
-	android:name
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:17:13-43
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:8:9-65
 activity#com.example.myapplication.ProfileActivity
-ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:19:9-21:40
+ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:16:9-18:40
 	android:exported
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:21:13-37
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:18:13-37
 	android:name
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:20:13-44
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:17:13-44
 activity#com.example.myapplication.search_plant_Activity
-ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:22:9-24:40
+ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:19:9-21:40
 	android:exported
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:24:13-37
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:21:13-37
 	android:name
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:23:13-50
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:20:13-50
 activity#com.example.myapplication.WeatherActivity
-ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:25:9-27:40
+ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:22:9-24:40
 	android:exported
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:27:13-37
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:24:13-37
 	android:name
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:26:13-44
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:23:13-44
 activity#com.example.myapplication.Signup2
-ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:28:9-30:40
+ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:25:9-27:40
 	android:exported
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:30:13-37
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:29:13-36
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:26:13-36
 activity#com.example.myapplication.Signup
-ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:31:9-33:40
+ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:28:9-30:40
 	android:exported
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:33:13-37
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:32:13-35
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:29:13-35
+activity#com.example.myapplication.MyplantsFragment
+ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:31:9-33:40
+	android:exported
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:32:13-45
+activity#com.example.myapplication.MonmentsFragment
+ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:34:9-36:40
+	android:exported
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:35:13-45
 activity#com.example.myapplication.ProfileFragment
-ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:34:9-36:40
+ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:37:9-39:40
 	android:exported
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:36:13-37
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:39:13-37
 	android:name
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:35:13-44
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:38:13-44
+activity#com.example.myapplication.MapFragment
+ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:40:9-42:40
+	android:exported
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:41:13-40
 activity#com.example.myapplication.ForumFragment
-ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:37:9-39:40
+ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:43:9-45:40
 	android:exported
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:39:13-37
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:45:13-37
 	android:name
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:38:13-42
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:44:13-42
+activity#com.example.myapplication.HomeFragment
+ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:46:9-48:40
+	android:exported
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:48:13-37
+	android:name
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:47:13-41
 activity#com.example.myapplication.AssignmentActivity
-ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:40:9-42:40
+ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:49:9-51:40
 	android:exported
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:42:13-37
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:51:13-37
 	android:name
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:41:13-47
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:50:13-47
 activity#com.example.myapplication.LoginActivity
-ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:43:9-45:40
+ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:52:9-54:40
 	android:exported
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:45:13-37
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:54:13-37
 	android:name
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:44:13-42
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:53:13-42
 activity#com.example.myapplication.MainActivity
-ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:46:9-54:20
+ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:55:9-63:20
 	android:exported
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:48:13-36
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:57:13-36
 	android:name
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:47:13-41
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:56:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:49:13-53:29
+ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:58:13-62:29
 action#android.intent.action.MAIN
-ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:50:17-69
+ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:59:17-69
 	android:name
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:50:25-66
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:59:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:52:17-77
+ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:61:17-77
 	android:name
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:52:27-74
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:61:27-74
 meta-data#preloaded_fonts
-ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:56:9-58:57
+ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:65:9-67:57
 	android:resource
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:58:13-54
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:67:13-54
 	android:name
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml:57:13-43
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml:66:13-43
 uses-sdk
-INJECTED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml
-INJECTED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml
+INJECTED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml
+INJECTED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml
 MERGED from [androidx.navigation:navigation-ui:2.5.3] /Users/billbai/.gradle/caches/transforms-3/cc3c84bcf11d1dfa6cd6bd6352941c40/transformed/navigation-ui-2.5.3/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-ui:2.5.3] /Users/billbai/.gradle/caches/transforms-3/cc3c84bcf11d1dfa6cd6bd6352941c40/transformed/navigation-ui-2.5.3/AndroidManifest.xml:20:5-22:41
-MERGED from [com.github.denzcoskun:ImageSlideshow:0.1.0] /Users/billbai/.gradle/caches/transforms-3/b7f5397bbb3b31aaca6133d5653515bb/transformed/ImageSlideshow-0.1.0/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.denzcoskun:ImageSlideshow:0.1.0] /Users/billbai/.gradle/caches/transforms-3/b7f5397bbb3b31aaca6133d5653515bb/transformed/ImageSlideshow-0.1.0/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.material:material:1.8.0] /Users/billbai/.gradle/caches/transforms-3/ecf786b70a21a37ed512d79e4f35ade5/transformed/material-1.8.0/AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.material:material:1.8.0] /Users/billbai/.gradle/caches/transforms-3/ecf786b70a21a37ed512d79e4f35ade5/transformed/material-1.8.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/billbai/.gradle/caches/transforms-3/7973dc37a0b9b77da65b027e645a80f7/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
@@ -337,16 +352,16 @@ MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/billbai/.
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/billbai/.gradle/caches/transforms-3/887740e9ca47b4f507c7b2ac441e7e60/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:exifinterface:27.1.0] /Users/billbai/.gradle/caches/transforms-3/5c2072d1d7dc0981b26807c5bb1326a4/transformed/exifinterface-27.1.0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:exifinterface:27.1.0] /Users/billbai/.gradle/caches/transforms-3/5c2072d1d7dc0981b26807c5bb1326a4/transformed/exifinterface-27.1.0/AndroidManifest.xml:20:5-44
-INJECTED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml
-INJECTED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml
+INJECTED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml
+INJECTED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml
-		ADDED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/billbai/Documents/GitHub/Green/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml
+		ADDED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/billbai/Documents/GitHub/GreenTrail/app/src/main/AndroidManifest.xml
 provider#com.squareup.picasso.PicassoProvider
 ADDED from [com.squareup.picasso:picasso:2.71828] /Users/billbai/.gradle/caches/transforms-3/463ab7256afb3b584e41185fe9baecc7/transformed/picasso-2.71828/AndroidManifest.xml:8:9-11:40
 	android:authorities
