@@ -8,49 +8,49 @@
             <LayoutPositions>
               <option name="myPositions">
                 <map>
-                  <entry key="Map">
+                  <entry key="homeFragment">
                     <value>
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="16" />
-                            <option name="y" value="341" />
+                            <option name="x" value="-136" />
+                            <option name="y" value="17" />
                           </Point>
                         </option>
                       </LayoutPositions>
                     </value>
                   </entry>
-                  <entry key="Moments">
+                  <entry key="mapFragment">
                     <value>
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="257" />
-                            <option name="y" value="353" />
+                            <option name="x" value="-131" />
+                            <option name="y" value="338" />
                           </Point>
                         </option>
                       </LayoutPositions>
                     </value>
                   </entry>
-                  <entry key="Myplants">
+                  <entry key="momentsFragment">
                     <value>
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="256" />
-                            <option name="y" value="12" />
+                            <option name="x" value="43" />
+                            <option name="y" value="18" />
                           </Point>
                         </option>
                       </LayoutPositions>
                     </value>
                   </entry>
-                  <entry key="home">
+                  <entry key="myPlantsFragment">
                     <value>
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="12" />
-                            <option name="y" value="12" />
+                            <option name="x" value="47" />
+                            <option name="y" value="337" />
                           </Point>
                         </option>
                       </LayoutPositions>
