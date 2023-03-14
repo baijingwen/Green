@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.myapplication.app-mergeDebugResources-41:/values-is/values-is.xml",
+            "outputFile": "com.example.myapplication.app-mergeDebugResources-42:/values-is/values-is.xml",
             "map": [
                 {
                     "source": "/Users/billbai/.gradle/caches/transforms-3/e5cf4090f0fcca1ba3d3d2dd9bd3635c/transformed/play-services-base-18.1.0/res/values-is/values.xml",

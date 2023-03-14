@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
-        android:id="@+id/Home"
+        android:id="@+id/homeFragment"
         android:icon="@drawable/ic_home"
         android:title="Home" />
 
     <item
-        android:id="@+id/Moments"
+        android:id="@+id/momentsFragment"
         android:icon="@drawable/ic_post"
         android:title="Moments" />
 
@@ -20,12 +20,12 @@
 
 
     <item
-        android:id="@+id/Map"
+        android:id="@+id/mapFragment"
         android:icon="@drawable/ic_map"
         android:title="Map" />
 
     <item
-        android:id="@+id/Myplants"
+        android:id="@+id/myPlantsFragment"
         android:icon="@drawable/ic_collect"
         android:title="My plants" />
 </menu>

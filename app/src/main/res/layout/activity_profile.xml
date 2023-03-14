@@ -95,11 +95,11 @@
                         android:id="@+id/user_gender"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Male"
-                        android:textSize="20dp"
-                        android:fontFamily="@font/muli_black"
                         android:layout_centerInParent="true"
-                        android:includeFontPadding="false"/>
+                        android:fontFamily="@font/muli_black"
+                        android:includeFontPadding="false"
+                        android:text="Male"
+                        android:textSize="20dp" />
 
 
 
