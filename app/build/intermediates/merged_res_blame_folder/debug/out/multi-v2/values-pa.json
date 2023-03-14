@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.myapplication.app-mergeDebugResources-41:/values-pa/values-pa.xml",
+            "outputFile": "com.example.myapplication.app-mergeDebugResources-42:/values-pa/values-pa.xml",
             "map": [
                 {
                     "source": "/Users/billbai/.gradle/caches/transforms-3/ba327b2ffef2528293b4723beca11963/transformed/play-services-basement-18.1.0/res/values-pa/values.xml",
